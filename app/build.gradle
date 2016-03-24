@@ -6,8 +6,8 @@ android {
 
     defaultConfig {
         applicationId "edu.niu.cs.z1761257.mp3player"
-        minSdkVersion 19
-        targetSdkVersion 23
+        minSdkVersion 18
+        targetSdkVersion 21
         versionCode 1
         versionName "1.0"
     }
